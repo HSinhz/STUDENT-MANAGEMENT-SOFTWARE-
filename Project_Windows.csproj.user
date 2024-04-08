@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="fEditBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fIputScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManagerBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManagerClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManagerScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManagerScoreMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManagerStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManagerStudentMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManagerSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNewBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNewClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNewStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNewStudentInSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNewSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSignin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
